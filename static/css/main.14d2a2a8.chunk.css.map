@@ -1,0 +1,1 @@
+{"version":3,"sources":["Hoshizuki.css"],"names":[],"mappings":"AAAA,WACE,aAAc,CACd,UAAW,CACX,gBAAiB,CACjB,gBACF","file":"main.14d2a2a8.chunk.css","sourcesContent":[".Hoshizuki {\n  display: block;\n  width: 100%;\n  max-width: 1000px;\n  margin: 10px auto;\n}\n"]}
